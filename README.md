@@ -1,0 +1,2 @@
+# Automated_DailyFudan_advanced
+可以直接部署在服务器上运行的平安复旦脚本，默认在凌晨3点填写
