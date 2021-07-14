@@ -1,6 +1,9 @@
 # 自动平安负担强化版Automated_DailyFudan_advanced
 ### :runner:注意事项
 
+** 由于原作者自己做了部署。本项目已经废弃 **
+
+
 :exclamation: 可以直接部署在服务器上运行的平安复旦脚本，**默认在凌晨3点填写**
 
 **填写脚本原作者github地址**：https://github.com/k652/daily_fudan
